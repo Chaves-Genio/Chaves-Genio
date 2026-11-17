@@ -1,4 +1,4 @@
-# Hey there, I'm António "Chaves" N. Monteiro 👋
+# Hey there, I'm António "Chaves" N. Monteiro
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ant%C3%B3nio+%22Chaves%22+Monteiro;Full-Stack+Web+%26+Mobile+Developer;Building+with+React%2C+Next.js+%26+Docker)](https://git.io/typing-svg)
 
@@ -6,11 +6,11 @@
 
 I'm a Developer from Angola 🇦🇴, passionate about building web and mobile applications that solve real operational problems — from intelligent screening agents to management systems for HR and agriculture.
 
-- 🌐 I work mostly with **Front-End and Full-Stack** technologies (HTML, CSS, JavaScript, React.js, Next.js)
-- 🐳 Comfortable containerizing and shipping apps with **Docker**
-- 🗄️ Experience with **MySQL** for data persistence and management
-- 📱 Growing focus on **web and mobile** product development
-- 🚀 Currently exploring modern full-stack architectures and API integration standards
+- I work mostly with **Front-End and Full-Stack** technologies (HTML, CSS, JavaScript, React.js, Next.js)
+- Comfortable containerizing and shipping apps with **Docker**
+- Experience with **MySQL** for data persistence and management
+- Growing focus on **web and mobile** product development
+- Currently exploring modern full-stack architectures and API integration standards
 
 ## Languages and Tools
 
